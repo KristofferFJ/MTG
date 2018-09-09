@@ -1,0 +1,10 @@
+Pairings\Entities\Player.class
+Pairings\Application.class
+Pairings\Entities\Tournament.class
+Pairings\Entities\TournamentEvent.class
+Pairings\Entities\PlayerRepository.class
+Pairings\Entities\TournamentEventRepository.class
+Pairings\Entities\TournamentRepository.class
+Pairings\Controllers\TournamentEventController.class
+Pairings\Controllers\TournamentController.class
+Pairings\Controllers\PlayerController.class
